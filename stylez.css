@@ -1,4 +1,9 @@
-.nav-item{
-    float: right;
+.{
+
+}
+.bg-light{
+background-color: lightgrey;
+}
+.navbartitle{
     text-align: center;
 }
